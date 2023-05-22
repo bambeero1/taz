@@ -1,0 +1,2 @@
+urls: /html/body/div[1]/div/div[2]/section/div/div[4]/div/ul/li[*]/a
+prices: /html/body/div[1]/div/div[2]/section/div/div[4]/div/ul/li[*]/a/div[4]/div[2]/div/span

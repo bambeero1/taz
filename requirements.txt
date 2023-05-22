@@ -1,0 +1,5 @@
+asyncio
+playwright
+dbapi
+pandas
+os
